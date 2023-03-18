@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name         Crunchyroll: One Piece Labeler
+// @author       seankda
 // @namespace    https://seankda.com
 // @version      1.0
 // @description  Labels episodes as CANON, MIXED, or FILLER based on: https://www.animefillerlist.com/shows/one-piece
